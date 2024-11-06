@@ -1,0 +1,100 @@
+1. Spring Core :-
+    What is Dependency Injection? - done
+	How DI works in Spring? - done
+	What is bean wiring? - done
+	What is spring context/container? - done
+	Diff b/w bean factory and application context? - done
+	bean lifecycle in spring - done
+	diff types of config in spring (xml/java) - done
+	what is autowiring in spring?  - done
+	what is use of @Component? - done
+	what is use of @ComponentScan? - done
+	what is use of @Configuration?
+	Diff b/w @Named and @Component (jsr300)?
+	what is the use of @Autowire and @Resource?
+	what is the use of @Autowire( required = true/false)?
+	what is the use of @Inject?
+	what is the use of @Bean? And how do u name a bean? - done
+	( Make sure to look into xml config as well, similar to java config)
+	Diff b/w setter injection and constructor injection? which one has priority/override? ans - setter injection
+	Diff types of autowiring in xml?
+		By name, by type, by constructor, autoDetect - done
+	What is the use of @Import in spring? - append multiple config class in single config class
+	What is the use of @ImportResource in spring? - done
+	How do you add xml config in java? - @ImportResource
+		 and java config in xml? - <bean/>
+	What is the default scope of a bean in spring? - singleton  - done
+	Diff types of scopes in spring? - (singleton, prototypes, session, request)
+	What is the use of @Scope? - done
+	What is the use of @Value? - done
+	Why spring container is also called as IOC? - done
+
+
+2. Spring MVC :- 
+	What is MVC design pattern?
+	What is DAO design pattern?
+	What is the lifecycle of a request in spring MVC?
+	What is dispatcher servelet in MVC?
+	What is the use of @Controller?
+	What is the use of @Service?
+	What is the use of @RequestMapping?
+	What is the use of @GetMapping?
+	What is the use of @PostMapping?
+	What is the use of @RestController?
+	What is the use of @Repository?
+	What is the use of ResponseEntity class in spring?
+	What is the use of @Transactional? *
+	TYPES OF ISOLATION LEVELS
+
+
+3. SpringBoot :- 
+	What is the use of spring initializer?
+	What is the use of @SpringBootApplication?
+	What are the annotations used inside @SpringBootApplication?
+	What is @AutoConfigutation in springboot?
+	What is spring actuator?
+	What is spring devtools?
+	How to change servers port no. in springboot?
+	Default server in springboot?
+	What is the use of application.yaml/json in springboot?
+	What was the purpose of introducing springboot?
+
+
+4. JPA with Hibernate :-
+	What is ORM?
+	What is ORM mismatch?
+	Why we use hibernate?
+	What is entityManager and entityManagerFactory? Which one should be singleton and which one should be non-singleton?
+	Diff b/w lazy loading and eager loading?
+	What is the use of persistence.xml? Where should be the location of this one in maven?
+	Sample of CRUD operations in JPA?
+	How do u handle transactions in JPA?
+	Persistence lifecycle in JPA?
+	What is the use of @Entity?
+	What is the use of @Table, @Id, @Column, @1to1, @1toMany, @ManyToMany?
+	What is uni-directional and bi-directional association?
+	What is JPQL? With Samples?
+	JDBC: What is statement, prepare statement and callable statement?
+	In JPA what is typedQuery and why is it used?
+	How to integrate JPA with spring?
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

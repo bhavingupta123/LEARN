@@ -1,0 +1,15 @@
+
+
+java:S1104"[Make numberOfRequest a static final constant or non-public and provide accessors if needed.(ä˜ÿ8û¾ìÄõ1J$ea0c4e20-320f-407a-8980-c92b048f64b8
+¸
+java:S1104"pMake windowSizeForRateLimitInMilliSeconds a static final constant or non-public and provide accessors if needed.(ˆõüúÿÿÿÿ8ü¾ìÄõ1J$5b98d2ee-d3e8-40a9-b296-88d50d4bb5af
+¡
+java:S1104	"YMake maxBucketSize a static final constant or non-public and provide accessors if needed.(¦Ş¿ºùÿÿÿÿ8ü¾ìÄõ1J$92fb9a40-92b6-446f-baa1-2915bdda897a
+x
+java:S1444"5Make this "public static numberOfRequest" field final(ä˜ÿ8ü¾ìÄõ1J$c2d08c8f-dc95-4771-9006-19150b52b5ea
+’
+java:S1444"JMake this "public static windowSizeForRateLimitInMilliSeconds" field final(ˆõüúÿÿÿÿ8ü¾ìÄõ1J$2ad87d9a-78c2-4efb-a743-b30505e0cf18
+{
+java:S1444	"3Make this "public static maxBucketSize" field final(¦Ş¿ºùÿÿÿÿ8ı¾ìÄõ1J$1abd2ba3-6a4c-40fe-9f1d-797e43c487d1
+}
+java:S1118":Add a private constructor to hide the implicit public one.(ŞöÙ8’¿ìÄõ1J$422c562c-a3dc-4e62-9271-1b2ec8cb675e
